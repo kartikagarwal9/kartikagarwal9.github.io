@@ -9,7 +9,7 @@ $message = trim(htmlspecialchars($_POST['message']));
 
 
       // *** To configure the MAIL address linked to the hosting or your email
-      $to = "max.doutr@sfr.fr";
+      $to = "your_email@gmail.com";
 
       $from  = "$email";
       //ini_set("SMTP", "smtp.mondomaine.com");   //For OVH Windows shared hosting
